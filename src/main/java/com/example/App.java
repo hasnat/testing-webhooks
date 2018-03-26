@@ -9,6 +9,9 @@ public class App {
         if (true) {
                 // and more bad code
         }
+        if (false) {
+            // another useless block
+        }
     }
     public static void main(String[] args) {
         try {
